@@ -34,7 +34,6 @@ A multi-page renewable energy educational website focused on sustainability.
 
 ## 🎯 Goals
 
-- Land a software engineering internship  
 - Build impactful real-world projects  
 - Strengthen problem-solving skills  
 
