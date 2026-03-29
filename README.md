@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Rithik
 
-<!--
-**TheProCube/TheProCube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Engineer | Frontend Developer  
+🌱 Interested in building real-world web applications and interactive user experiences  
 
-Here are some ideas to get you started:
+<!-- ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+### 🌱 Greenify
+A multi-page renewable energy educational website focused on sustainability.
+
+🔗 Live Demo: https://livegreen.netlify.app/  
+📂 GitHub: https://github.com/TheProCube/greenify  -->
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML, CSS, JavaScript  
+- Bootstrap  
+- Git & GitHub  
+- Netlify  
+
+---
+
+## 📌 What I'm Working On
+
+- Building more full-stack projects  
+- Improving UI/UX design skills  
+- Learning advanced JavaScript  
+
+---
+
+## 🎯 Goals
+
+- Land a software engineering internship  
+- Build impactful real-world projects  
+- Strengthen problem-solving skills  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/TheProCube
+- 📫 How to reach me: http://portfolio-of-rithik.netlify.app/contact
