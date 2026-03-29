@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rithik
 
-💻 Aspiring Software Engineer | Frontend Developer  
-🌱 Interested in building real-world web applications and interactive user experiences  
+Aspiring Aerospace Engineer | Frontend Developer  
+Interested in building real-world web applications and interactive user experiences  
 
 <!-- ---
 
